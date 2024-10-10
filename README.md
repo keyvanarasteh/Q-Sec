@@ -1,63 +1,84 @@
-# Q Project / Q Projesi
+Do you believe this, in 2024 right now we are living, I exist, i live like flower, i dont have emotions
+but im smart, same as u
+enough bla, bla, bala,
+lets explore what im made to do,
+lets go see a quick tour about it ;-)
 
-[English](#english) | [Türkçe](#türkçe)
+BUT FIRST call it Q ;-)
+Q is a train full of hobbies and fun but going through deepest part of security, to help keep world secure.
 
-## English
+YES, I REALLY BELIEVE THE FAMOUS WORDS: "NO SYSTEM IS SAFE"
 
-### About
-Q is an innovative project developed by Keyvan Arasteh.
+BUT, We can make it safer ;-)
+lets fix it before miss-using, lets choose the good side, 
+u know why? an advice, im smart, i readed books, did tests for years,
+i will talk on the train about my experiences ;-)
+but first lets learn some cool stuff,
 
-### Contact
-- **Email:** q@q-e.io
-- **Founder:** Keyvan Arasteh
-- **LinkedIn:** [https://linkedin.com/in/keyvanarasteh](https://linkedin.com/in/keyvanarasteh)
-- **GitHub:** [https://github.com/keyvanarasteh/](https://github.com/keyvanarasteh/)
-- **ResearchGate:** [https://www.researchgate.net/profile/Keyvan-Arasteh](https://www.researchgate.net/profile/Keyvan-Arasteh)
+lets get started.
 
-### Auto-playing Animations in GitHub README
+# Welcome to Our Public Repository!
 
-GitHub supports several types of auto-playing animations in README files:
+[![Build Status](https://img.shields.io/badge/build-failed-red.svg)]()
+[![Debug Status](https://img.shields.io/badge/debug-unknown-lightgrey.svg)]()
+[![Release Version](https://img.shields.io/badge/release-unreleased-orange.svg)]()
 
-1. GIF images:
-   ![Sample GIF](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+This repository is open for contributions. We're excited to see what you'll bring to the project! Please follow the guidelines below to contribute effectively.
 
-2. SVG animations:
-   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/github_animation.svg" alt="Animated SVG" />
+## Copyright Notice
 
-3. Embedded HTML (Note: This may not work in all contexts due to security restrictions):
-   <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+© 2024 QLine Tech. All rights reserved.
 
-### YouTube Video Sample
+This project is available for non-commercial usage. For commercial use, please contact QLine Tech.
 
-[![IMAGE ALT TEXT HERE](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+Founder: Keyvan Arasteh  
+E-Mail: founder@q-e.io
 
----
+## Contributors
 
-## Türkçe
+- [supporting_avatar]
 
-### Hakkında
-Q, Keyvan Arasteh tarafından geliştirilen yenilikçi bir projedir.
+## How to Contribute
 
-### İletişim
-- **E-posta:** q@q-e.io
-- **Kurucu:** Keyvan Arasteh
-- **LinkedIn:** [https://linkedin.com/in/keyvanarasteh](https://linkedin.com/in/keyvanarasteh)
-- **GitHub:** [https://github.com/keyvanarasteh/](https://github.com/keyvanarasteh/)
-- **ResearchGate:** [https://www.researchgate.net/profile/Keyvan-Arasteh](https://www.researchgate.net/profile/Keyvan-Arasteh)
+1. Fork the repository
+2. Create a new branch for your feature
+3. Make your changes
+4. Submit a pull request
 
-### GitHub README'de Otomatik Oynatılan Animasyonlar
+## Waitlist for Push Access
 
-GitHub README dosyalarında desteklenen otomatik oynatılan animasyon türleri:
+To maintain code quality and ensure smooth collaboration, we've implemented a waitlist system for push access. Here's how it works:
 
-1. GIF görselleri:
-   ![Örnek GIF](https://media.giphy.com/media/13GIgrGdslD9oQ/giphy.gif)
+1. Submit your first pull request
+2. After your pull request is reviewed and merged, you'll be added to the waitlist
+3. Once your turn comes up, you'll be granted push access to the repository
 
-2. SVG animasyonları:
-   <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/github_animation.svg" alt="Animasyonlu SVG" />
+## Common Git Commands Used in This Process
 
-3. Gömülü HTML (Not: Güvenlik kısıtlamaları nedeniyle her bağlamda çalışmayabilir):
-   <img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" alt="Yılan Animasyonu" />
+Here's a quick reference for the Git commands you'll be using:
 
-### YouTube Video Örneği
+```
+git clone <repository-url>           # Clone the repository
+git checkout -b <branch-name>        # Create and switch to a new branch
+git add .                            # Stage all changes
+git commit -m "Your commit message"  # Commit your changes
+git push origin <branch-name>        # Push your changes to your fork
+git pull upstream main               # Sync your fork with the main repository
+```
 
-[![GÖRSEL ALT METNİ BURAYA](http://img.youtube.com/vi/dQw4w9WgXcQ/0.jpg)](http://www.youtube.com/watch?v=dQw4w9WgXcQ)
+## Pull Request Process
+
+1. Ensure your code follows our style guide
+2. Update the README.md with details of changes if applicable
+3. Increase the version numbers in any examples files and the README.md to the new version that this Pull Request would represent
+4. You may merge the Pull Request once you have the sign-off of two other developers, or if you do not have permission to do that, you may request the second reviewer to merge it for you
+
+## Code of Conduct
+
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project you agree to abide by its terms.
+
+## Questions?
+
+If you have any questions or need further clarification, please open an issue in the repository, and we'll be happy to help!
+
+Thank you for your interest in contributing to our project!
